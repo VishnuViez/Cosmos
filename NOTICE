@@ -1,0 +1,7 @@
+Cosmos is a modified version of Odysseus
+(https://github.com/odysseus-dev/odysseus, commit 9d0d3720).
+Modifications began on 2026-10-25.
+
+Cosmos is distributed under the GNU Affero General Public License v3.0 or
+later; see LICENSE. Third-party components and their licenses are listed in
+ACKNOWLEDGMENTS.md, THIRD_PARTY_PROVENANCE.json and licenses/.

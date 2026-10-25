@@ -1,0 +1,22 @@
+{
+  "name": "cosmos",
+  "version": "0.1.1",
+  "description": "Connect Codex to a scoped Cosmos instance.",
+  "author": {
+    "name": "Cosmos"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Cosmos",
+    "shortDescription": "Use scoped Cosmos tools from Codex.",
+    "longDescription": "Connects Codex terminal sessions to Cosmos through user-controlled scoped API tokens. Codex must use /api/codex/* endpoints so Cosmos Settings can enforce tool access.",
+    "developerName": "Cosmos",
+    "category": "Productivity",
+    "capabilities": [
+      "todos",
+      "email",
+      "scoped-api"
+    ],
+    "defaultPrompt": "Use Cosmos only through configured scoped access. Check capabilities before reading or writing data."
+  }
+}
